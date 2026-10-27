@@ -1,0 +1,76 @@
+{
+  "city": "Kaunas",
+  "instagram": null,
+  "lunch": {
+    "url": "https://www.facebook.com/p/Senasis-Jerevanas-100054384826186/",
+    "placement": "hero",
+    "basis": "Explicit user request 2026-10-25; no specific dish/prices advertised"
+  },
+  "reservation": null,
+  "photos": [
+    {
+      "path": "dist/senasis-jerevanas/assets/patiekalas-01-retouch.webp",
+      "source": "User uploaded original screenshot on 2026-10-26",
+      "alt": "Ant grotelių kepti šonkauliukai su ryžiais ir daržovėmis"
+    },
+    {
+      "path": "dist/senasis-jerevanas/assets/patiekalas-02-retouch.webp",
+      "source": "User uploaded original screenshot on 2026-10-26",
+      "alt": "Kepta mėsa su bulvytėmis ir salotomis"
+    },
+    {
+      "path": "dist/senasis-jerevanas/assets/patiekalas-03-retouch.webp",
+      "source": "User uploaded original screenshot on 2026-10-26",
+      "alt": "Šašlykai su ryžiais ir daržovėmis"
+    },
+    {
+      "path": "dist/senasis-jerevanas/assets/patiekalas-04-retouch.webp",
+      "source": "User uploaded original screenshot on 2026-10-26",
+      "alt": "Sriuba su mėsa, bulvėmis ir žolelėmis"
+    },
+    {
+      "path": "dist/senasis-jerevanas/assets/patiekalas-05-retouch.webp",
+      "source": "User uploaded original screenshot on 2026-10-26",
+      "alt": "Kepti šonkauliukai su daržovėmis ir lavašu"
+    },
+    {
+      "path": "dist/senasis-jerevanas/assets/patiekalas-06-retouch.webp",
+      "source": "User uploaded original screenshot on 2026-10-26",
+      "alt": "Šašlykų rinkinys su ryžiais ir salotomis"
+    },
+    {
+      "path": "dist/senasis-jerevanas/assets/patiekalas-07-retouch.webp",
+      "source": "User uploaded original screenshot on 2026-10-26",
+      "alt": "Apskrudę šašlykai su šviežiomis daržovėmis"
+    },
+    {
+      "path": "dist/senasis-jerevanas/assets/patiekalas-08-retouch.webp",
+      "source": "User uploaded original screenshot on 2026-10-26",
+      "alt": "Šašlykų lėkštė su ryžiais ir salotomis"
+    }
+  ],
+  "slug": "senasis-jerevanas",
+  "name": "Senasis Jerevanas",
+  "address": "Bačkonių g. 6A, Kaunas",
+  "phone": "+37060358808",
+  "facebook": "https://www.facebook.com/p/Senasis-Jerevanas-100054384826186/",
+  "wolt": null,
+  "menu": null,
+  "cuisine": "Kaukazietiška virtuvė",
+  "description": "Kaukazietiškos virtuvės kavinė Kaune.",
+  "story_title": "Kaukazietiškos virtuvės skoniai",
+  "story": "Kaukazietiškos virtuvės kavinė Kaune.",
+  "sources": [
+    "Vartotojo pateiktas leads_new_batch6_kaunas_vilnius_20.numbers",
+    "https://www.facebook.com/p/Senasis-Jerevanas-100054384826186/",
+    "https://www.1551.lt/senasis-jerevanas-uab-111379/"
+  ],
+  "notes": "Bačkonių g.6A confirmed by user. All eight food images supplied by user 2026-10-26. No building or interior images. Daily lunch link explicitly requested by user.",
+  "review_note": "Vieta patvirtinta. Šios savaitės dienos pietų pasiūlymas nepatvirtintas.",
+  "retouch": {
+    "date": "2026-10-26",
+    "method": "Built-in imagegen, restrained photo retouch",
+    "details": "Screenshot controls and edge clutter removed; lighting and framing refined. AI-retouched versions of the eight user-provided restaurant photos; original assets retained.",
+    "prompt": "../../research/yerevan-retouch-prompt.txt"
+  }
+}
